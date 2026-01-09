@@ -58,5 +58,3 @@ void setup() {
 void loop() {
   // Nessuna logica bloccante, tutto gestito dai callback
 }
-
-
